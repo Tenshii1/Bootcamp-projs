@@ -20,9 +20,7 @@ function Landing() {
     >
       
 
-      <h1 className="text-5xl font-extrabold text-white shadow-lg border-2 p-16 rounded-md bg-black/40">
-        Welcome to the Landing Page! 🚀
-      </h1>
+
 
     </div>
     <Footer />
